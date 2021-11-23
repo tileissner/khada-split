@@ -106,7 +106,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.254,
+        "min_clearance": 0.18,
         "min_copper_edge_clearance": 0.09999999999999999,
         "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.25,
@@ -121,7 +121,8 @@
       },
       "track_widths": [
         0.0,
-        0.254
+        0.254,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -348,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rad-pad.kicad_pro",
+    "filename": "khada.kicad_pro",
     "version": 1
   },
   "net_settings": {

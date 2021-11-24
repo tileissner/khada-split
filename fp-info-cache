@@ -1,4 +1,4 @@
-961715637099789
+973182605856557
 Resistor_THT
 R_Array_SIP4
 4-pin Resistor SIP pack
@@ -2757,6 +2757,41 @@ solder_jumper
 0
 2
 2
+logo
+designRed
+
+
+0
+0
+0
+logo
+designRedSM
+
+
+0
+0
+0
+logo
+khada
+
+
+0
+0
+0
+logo
+lotusBack
+
+
+0
+0
+0
+logo
+lotusFront
+
+
+0
+0
+0
 mx_only
 MXOnly-1.5U
 
@@ -3956,6 +3991,20 @@ MX,cherry,gateron,kailh
 2
 switches
 SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+switches
+SW_MX_reversible_NoS
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+switches
+SW_MX_reversible_NoSilk
 MX-style keyswitch, reversible
 MX,cherry,gateron,kailh
 0

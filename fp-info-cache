@@ -1,4 +1,4 @@
-973182605856557
+1043844177747575
 Resistor_THT
 R_Array_SIP4
 4-pin Resistor SIP pack
@@ -2792,6 +2792,468 @@ lotusFront
 0
 0
 0
+marbastlib-mx
+LED_MX_3mm
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_3mm-FLIPPED
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_6028R
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R-FLIPPED
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_SK6812MINI-E-FLIPPED
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+STAB_MX_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO_FLIPPED
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_P_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_ISO_FLIPPED
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+SW_MX_1.5u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.25u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_stp
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1u
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+marbastlib-mx
+SW_MX_HS_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u_stp
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_Reversible_1u
+Reversible footprint for Cherry MX style switches
+cherry mx switch
+0
+4
+2
+marbastlib-mx
+SW_MX_Reversible_1u_PadsOnBothLayers
+Reversible footprint for Cherry MX style switches
+cherry mx switch
+0
+4
+2
+marbastlib-various
+ANT_2.4_IFA_1
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+marbastlib-various
+ANT_2.4_IFA_2
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+marbastlib-various
+CON_MJ-4PP-9
+TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+4
+4
+marbastlib-various
+CON_MJ-4PP-9_Reversible
+Reversible TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+8
+4
+marbastlib-various
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+marbastlib-various
+Crystal_SMD_SeikoEpson_FA128-4Pin_2.0x1.6mm
+crystal Epson Toyocom FA-128 https://support.epson.biz/td/api/doc_check.php?dl=app_FA-128&lang=en, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+marbastlib-various
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+marbastlib-various
+LED_SK6812MINI-E
+rear-mount SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+LED_WS2812_2020
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+LED_WS2812_2020_rearmount
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+LED_WS2812_2020_stealth
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+MAX77751
+3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
+LiIon LiPo battery charger management usb power path switch-mode step-down buck
+0
+24
+24
+marbastlib-various
+ProMicro
+Footprint for Arduino Pro Micro and compatible boards
+
+0
+24
+24
+marbastlib-various
+ProMicroReversible
+Reversible footprint for Arduino Pro Micro and compatible boards
+
+0
+48
+24
+marbastlib-various
+QFN-60_EP_7x7_Pitch0.4mm
+QFN-60 package accroding to IS31FL3741A datasheets
+
+0
+158
+61
+marbastlib-various
+STM32WB5MMG
+Bluetooth capable ARM Microcontroller
+stm32 arm wireless bluetooth low energy ble zigbee
+0
+86
+86
+marbastlib-various
+SW_ESP3020
+ECE ESP3020 SMD slide switch
+slide switch smd ece
+0
+3
+3
+marbastlib-various
+SW_MSK12C02-HB
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+marbastlib-various
+SW_kailh_big_1u
+Footprint for Kailh "Big Switch Series" style switches
+
+0
+2
+2
+marbastlib-various
+SplitkbTentingPuck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+marbastlib-various
+joystick_psp1000
+Footprint for a PSP-1000 joystick
+psp joystick analog
+0
+6
+5
+marbastlib-various
+mousebites_1mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_2.5mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_2mm
+
+
+0
+0
+0
+marbastlib-various
+nRF52840_holyiot_18010
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+marbastlib-various
+nRF52840_holyiot_18010_HS_all
+Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+marbastlib-various
+nRF52840_holyiot_18010_HS_simple
+Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
+holyiot 18010 bluetooth low energy 
+0
+37
+37
 mx_only
 MXOnly-1.5U
 
@@ -4045,164 +4507,3 @@ MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 0
-used_footprints
-1pin_conn
-Resitance 3 pas
-R
-0
-1
-1
-used_footprints
-CherryMX_Hole_for_layout_tester
-
-
-0
-0
-0
-used_footprints
-CherryMX_MidHeight_Hotswap_1.25u
-
-
-0
-4
-2
-used_footprints
-CherryMX_MidHeight_Hotswap_1u
-
-
-0
-4
-2
-used_footprints
-D3_TH_SMD
-Resitance 3 pas
-R
-0
-6
-2
-used_footprints
-JST_THT_2.0
-
-
-0
-2
-2
-used_footprints
-Jumper_rev
-
-
-0
-4
-2
-used_footprints
-LED
-
-
-0
-3
-3
-used_footprints
-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
-https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
-LED RGB NeoPixel
-0
-8
-4
-used_footprints
-M2_HOLE_PCB
-
-
-0
-1
-0
-used_footprints
-MJ-4PP-9
-
-
-0
-8
-4
-used_footprints
-OLED_4Pin
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-used_footprints
-ProMicro_rev2
-
-
-0
-48
-24
-used_footprints
-Resistor_Hybrid_1205
-
-
-0
-8
-2
-used_footprints
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-used_footprints
-Switch_Reset_THT
-
-
-0
-2
-2
-used_footprints
-YS-SK6812MINI-E
-
-
-0
-8
-4
-used_footprints
-avalanche_Jumper
-
-
-0
-2
-2
-used_footprints
-diode_SMD
-Resitance 3 pas
-R
-0
-4
-2
-used_footprints
-diode_TH_SMD
-Resitance 3 pas
-R
-0
-6
-2
-used_footprints
-diode_TH_SMD_with_pads
-Resitance 3 pas
-R
-0
-10
-2
-used_footprints
-jumper_data
-
-
-0
-3
-2
-used_footprints
-metallized_breakout_cutout
-
-
-0
-6
-1

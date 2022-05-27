@@ -1,4 +1,4 @@
-Released under CC BY-NC-SA 4.0
+Released under CC BY-NC-SA 4.0 license
 
 # khada-split
 44 key ergo split

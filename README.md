@@ -1,3 +1,5 @@
+Released under CC BY-NC-SA 4.0
+
 # khada-split
 44 key ergo split
 
